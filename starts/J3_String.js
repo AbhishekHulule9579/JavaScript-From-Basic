@@ -66,3 +66,6 @@ let t5='          Hi I am from Associative               ';
 console.log(t5.trim());
 
 console.log();
+
+let t6="Abhishek";
+console.log(t6.slice(0,3));
