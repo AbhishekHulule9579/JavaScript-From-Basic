@@ -1,11 +1,13 @@
 
 console.log("************ String declaration ****************")
 console.log( "********* by single and double inverted commas" )
+
 let s1='abc';
 console.log(s1)
 let s2="abc"
 console.log(s2)
 console.log();
+
 console.log("*********declaration by using constructor *************")
 let s3=new String('abcd')
 console.log(s3)
@@ -15,6 +17,7 @@ let s4="abhi";
 let s5=`Hi my name is ${s4}`;
 console.log(s5);
 console.log();
+
 console.log("*************** Multi line String *******************")
 let s6=`        Hi How are you ?
         I am fine , How about you 
