@@ -52,4 +52,5 @@ console.log(unique);       // [1,2,3,4]
 
 // clear set
 mySet.clear();
-console.log(mySet);        // Set {}
+console.log(mySet);     
+// Set {}
